@@ -1,0 +1,10 @@
+C:\Users\Gerar\source\repos\ColaSimpleEstatica\ColaSimpleEstatica\bin\Debug\ColaSimpleEstatica.exe.config
+C:\Users\Gerar\source\repos\ColaSimpleEstatica\ColaSimpleEstatica\bin\Debug\ColaSimpleEstatica.exe
+C:\Users\Gerar\source\repos\ColaSimpleEstatica\ColaSimpleEstatica\bin\Debug\ColaSimpleEstatica.pdb
+C:\Users\Gerar\source\repos\ColaSimpleEstatica\ColaSimpleEstatica\obj\Debug\ColaSimpleEstatica.csprojAssemblyReference.cache
+C:\Users\Gerar\source\repos\ColaSimpleEstatica\ColaSimpleEstatica\obj\Debug\ColaSimpleEstatica.Form1.resources
+C:\Users\Gerar\source\repos\ColaSimpleEstatica\ColaSimpleEstatica\obj\Debug\ColaSimpleEstatica.Properties.Resources.resources
+C:\Users\Gerar\source\repos\ColaSimpleEstatica\ColaSimpleEstatica\obj\Debug\ColaSimpleEstatica.csproj.GenerateResource.cache
+C:\Users\Gerar\source\repos\ColaSimpleEstatica\ColaSimpleEstatica\obj\Debug\ColaSimpleEstatica.csproj.CoreCompileInputs.cache
+C:\Users\Gerar\source\repos\ColaSimpleEstatica\ColaSimpleEstatica\obj\Debug\ColaSimpleEstatica.exe
+C:\Users\Gerar\source\repos\ColaSimpleEstatica\ColaSimpleEstatica\obj\Debug\ColaSimpleEstatica.pdb
